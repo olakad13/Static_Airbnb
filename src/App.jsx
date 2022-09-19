@@ -5,6 +5,7 @@ import Hero from './components/Hero'
 import data from "./data"
 import Card from './components/Card'
 
+
 function App() {
   const [count, setCount] = useState(0)
 
